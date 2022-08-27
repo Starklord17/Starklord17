@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19DC13&multiline=true&width=435&lines=Hello+World!+I'm+Max_S.;Full+Stack+Developer+in+Progress..." alt="Typing SVG" />
 </h1>
 
+<br> 
+
 <div id="footer" align="center">
   <img src="./gif/working.gif" width="100"/>
 </div>
