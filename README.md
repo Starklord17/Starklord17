@@ -28,6 +28,16 @@
 
 <br>
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast)](https://git.io/streak-stats) -->
+
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
+
+<br>
+
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/maximiliano-santin/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="35px"</a>
