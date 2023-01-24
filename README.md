@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=300&color=0EF71F&width=450&height=100&lines=Hello+World!+I'm+Maximiliano Santin.;Full+Stack+Developer+in+Progress..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=300&color=0EF71F&width=450&height=100&lines=Hello+World!+I'm+MaxSM.;Full+Stack+Developer+in+Progress..." alt="Typing SVG" />
 </h1>
 
 <div id="footer" align="center">
