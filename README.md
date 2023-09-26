@@ -1,7 +1,7 @@
 <!-- ![](assets/Bottom_up.svg) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=2500&pause=1000&color=0EF71F&center=true&vCenter=true&width=450&height=100&lines=Hello+World!+I'm+Maximiliano+Santin.;Full+Stack+Developer+in+Progress..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=2500&pause=1000&color=0EF71F&center=true&vCenter=true&width=450&height=100&lines=Hello+World!+I'm+Maximiliano+Santin.;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div id="footer" align="center">
@@ -15,18 +15,19 @@
 <br> 
 
 <div align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=darkgreen&style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
+
+[![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge)](https://nodejs.org)
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=darkgreen&style=for-the-badge)](https://www.mongodb.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+
 </div>
 
 <br>
