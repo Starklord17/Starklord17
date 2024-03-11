@@ -22,6 +22,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=FFF)](https://www.typescriptlang.org/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=FFF)](https://tailwindcss.com/)
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=darkgreen&style=for-the-badge)](https://www.mongodb.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
