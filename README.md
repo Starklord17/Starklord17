@@ -1,7 +1,7 @@
 <!-- ![](assets/Bottom_up.svg) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=2500&pause=1000&color=0EF71F&center=true&vCenter=true&width=450&height=100&lines=Hello+World!+I'm+Max.;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=2500&pause=1000&color=0EF71F&center=true&vCenter=true&width=450&height=100&lines=Hello+World!+I'm+MaxSM.;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div id="footer" align="center">
