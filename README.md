@@ -14,7 +14,7 @@
 
 <br> 
 
-<section align="center">
+<div align="center">
 
 [![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -30,25 +30,24 @@
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 
-</section>
+</div>
 
 <br>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast)](https://git.io/streak-stats) -->
 
-<picture align="center">
+<p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast"/>
   <img height="150" width="150" src="WEBP/right.webp">
-</picture>
+</p>
 
 <br>
 
-<div>
-  <div align="center">
+</p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/maximiliano-santin/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="35px"</a>
-  </div>
-</div>
+</p>
 
 <br>
 
