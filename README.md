@@ -14,7 +14,7 @@
 
 <br> 
 
-<div align="center">
+<section align="center">
 
 [![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -30,34 +30,25 @@
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 
-</div>
+</section>
 
 <br>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast)](https://git.io/streak-stats) -->
 
-  <picture>
-    <source media="(max-width: 730px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-    <img height="150" width="150" src="WEBP/left.webp" alt="Left decoration">
-  </picture>
-
-  <picture>
-    <source media="(max-width: 730px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast&hide_border=true">
-    <source media="(min-width: 731px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast&hide_border=true&background=FFFFFF00">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast" alt="GitHub Streak">
-  </picture>
-
-  <picture>
-    <source media="(max-width: 730px)" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-    <img height="150" width="150" src="WEBP/right.webp" alt="Right decoration">
-  </picture>
+<picture align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Starklord17&theme=highcontrast"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</picture>
 
 <br>
 
-</p>
-  <p align="center">
+<div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/maximiliano-santin/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="35px"</a>
-</p>
+  </div>
+</div>
 
 <br>
 
