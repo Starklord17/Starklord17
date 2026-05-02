@@ -1,34 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
-    <style>
-        .text {
-            font-size: 50px;
-            font-weight: 700;
-            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-        }
-        .desc {
-            font-size: 20px;
-            font-weight: 100;
-            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-        }
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-labelledby="title desc">
+  <title id="title">Animated profile header</title>
+  <desc id="desc">Animated header with typing effect for Hello World! I'm MaxSM. and Full Stack Developer.</desc>
 
-            </style>
-    <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+  <defs>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a8f22"/>
+      <stop offset="100%" stop-color="#75ff8a"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip-hello">
+      <rect x="118" y="34" width="0" height="52">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" keyTimes="0;0.08;0.34;0.44;0.5;1" values="0;0;650;650;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-role">
+      <rect x="160" y="34" width="0" height="52">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.58;0.84;0.94;1" values="0;0;560;560;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
 
-                    <defs>
-        <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="green"/><stop offset="100%" stop-color="lightgreen"/>#8CA6DB  #8CAB 
-        </linearGradient>
-    </defs>
+  <style>
+    .headline {
+      font: 700 46px "Fira Code", monospace;
+      fill: #0ef71f;
+      filter: url(#softGlow);
+    }
+    .subline {
+      font: 700 30px "Fira Code", monospace;
+      fill: #d9ffe0;
+      text-anchor: middle;
+    }
+    .cursor {
+      fill: #0ef71f;
+      filter: url(#softGlow);
+    }
+  </style>
 
-                    <path d="" fill="url(#linear)" opacity="0.4" >
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z"></animate>
-</path>
-<path d="" fill="url(#linear)" opacity="0.4" >
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z"></animate>
-</path>
-    </g>
+  <g transform="translate(427, 110) translate(-427, -110)">
+    <path fill="url(#wave)" opacity="0.35">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="M0 0L0 126Q213.5 166 427 136T854 161L854 0Z;M0 0L0 151Q213.5 166 427 146T854 136L854 0Z;M0 0L0 171Q213.5 141 427 171T854 136L854 0Z;M0 0L0 126Q213.5 166 427 136T854 161L854 0Z"/>
+    </path>
+    <path fill="url(#wave)" opacity="0.35">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L0 141Q213.5 186 427 156T854 166L854 0Z;M0 0L0 156Q213.5 126 427 126T854 146L854 0Z;M0 0L0 151Q213.5 131 427 156T854 171L854 0Z;M0 0L0 141Q213.5 186 427 156T854 166L854 0Z"/>
+    </path>
+  </g>
 
-            <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#8CA;" stroke="#none" stroke-width="10" > Welcome to my profile!</text>
+  <g>
+    <text x="118" y="74" class="headline" clip-path="url(#clip-hello)">Hello World! I'm Max</text>
+    <text x="160" y="74" class="headline" clip-path="url(#clip-role)">Full Stack Developer</text>
 
+    <rect x="118" y="38" width="12" height="40" class="cursor" opacity="0">
+      <animate attributeName="x" dur="8s" repeatCount="indefinite" keyTimes="0;0.08;0.34;0.44;0.5;1" values="118;118;680;680;118;118"/>
+      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;0;1"/>
+      <animate attributeName="visibility" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.5001;1" values="visible;visible;hidden;hidden"/>
+    </rect>
+
+    <rect x="160" y="38" width="12" height="40" class="cursor" opacity="0">
+      <animate attributeName="x" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.58;0.84;0.94;1" values="160;160;720;720;160;160"/>
+      <animate attributeName="opacity" dur="1s" begin="4s" repeatCount="indefinite" values="1;0;1"/>
+      <animate attributeName="visibility" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.5001;1" values="hidden;hidden;visible;visible"/>
+    </rect>
+
+  </g>
 </svg>
-        
