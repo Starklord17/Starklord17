@@ -21,6 +21,12 @@
   <img src="./gif/working.gif" alt="Working animation" width="88" />
 </p>
 
+<p align="center">
+  <a href="https://www.maxsm.dev/">
+    <img src="assets/arcade-terminal.svg" alt="Arcade terminal portfolio link" width="100%" />
+  </a>
+</p>
+
 ## About Me
 
 I build web products with a strong frontend eye and a practical backend mindset.
