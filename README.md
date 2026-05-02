@@ -1,14 +1,6 @@
 <p align="center">
   <img src="assets/Bottom_up.svg" alt="" width="100%" />
 </p>
-
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&duration=2500&pause=1000&color=0EF71F&center=true&vCenter=true&width=450&height=100&lines=Hello+World!+I'm+MaxSM.;Full+Stack+Developer"
-    alt="Typing SVG"
-    width="100%"
-  />
-</h1>
 <p align="center">
   Full Stack Developer focused on product-minded web experiences, scalable frontend architecture, and reliable backend services.
 </p>
